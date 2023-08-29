@@ -47,6 +47,7 @@ WFH| Freelancer
 [<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VSCodium_Logo.png/600px-VSCodium_Logo.png?20200326145922" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodePen_logo.png?20170326195439" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
