@@ -1,16 +1,71 @@
-### Hi there 👋
+# Hi there, I'm Moch - aka Mon [muhamadnawawi]() 👋
+## About me:
+- 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning Python and Javascript
+- 🤔 I’m looking for suggest for Rust Project Ideas
+- 💬 Ask me about anything
+- 📫 How to reach me: muhamadnawawi2@gmail.com
 
-<!--
-**MOCHGIT/MOCHGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Universitas Pakuan](https://www.unpak.ac.id/) | Bachelor of Chemistry | Yogyakarta `2017-2023`
+   - Asistant Laboratorium of Basic Electronics
+   - Asistant Laboratorium of Installation
+   - Tutor of Engineering Mathematics
+ #### 2. [SMAKBO](http://www.smakbo.sch.id/) | KIMIA | Kebumen `2008-2018`
+   - Chief of Rohkris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience:
+WFH| Freelancer
+2020 – now
+
+#### 1. [WFH]() | Freelancer |  `Dec'2020 - Now`
+   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
+   - Responsible to improve and realize project delivery as timeline
+#### 2. [PT. Perdana Sakti Indonesia](https://id621344-pt-perdana-sakti-indonesia.contact.page/) | Head of  Microbiologyst | Cipanas `2014-2020`
+   - responsible for all the needs of the microbiology lab
+   - monitoring of materials, tools, documents and human resources related to the microbiology lab.
+#### 3. [SLBNG Alliance]() | Desigin Product | Bogor `2013-2014`
+   - Layouting vector design with Adobe Illustrator
+   - Create components/assets in the design
+#### 4. [Laboratorium Faperta IPB](https://faperta.ipb.ac.id/fasilitas/) | QC Analyst | Bogor `2013-2013`
+   - Chemist Analyst : perform sample preparation and analysis with Truspec Leco CNS analyzer
+   - Microbiologyst: prepares tools and materials for testing ALT, AKK, and Pathogens
+#### 5. [PT. Dharma Guna Wibawa](http://www.dgw.co.id/) | Qc Staff| Cipanas `2012-2013`
+   - sampling and analysis for supremo, paraquat and herbicide samples
+   - Performing Uv-Vis spectrophotometer analysis
+#### 6. [PT. Saraswanti Indo Genetech](https://saraswanti.com/anak-perusahaan/pt-saraswanti-indo-genetech/) | Intern Chemist| Bogor `2011-2012`
+   - Chemist Analyst : perform heavy metal analysis with AAS
+   - Microbiologyst: prepares tools and materials for testing ALT, AKK, and Pathogens
+
+---
+
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VSCodium_Logo.png/600px-VSCodium_Logo.png?20200326145922" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+
+
+
+[webdev]: https://github.com/MOCHGIT/mochmona
