@@ -7,12 +7,9 @@
 
 ## Education:
 
-#### 1. [Universitas Pakuan](https://www.unpak.ac.id/) | Bachelor of Chemistry | Yogyakarta `2017-2023`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMAKBO](http://www.smakbo.sch.id/) | KIMIA | Kebumen `2008-2018`
-   - Chief of Rohkris
+#### 1. [Universitas Pakuan](https://www.unpak.ac.id/) | Bachelor of Chemistry | `2017-2023`
+
+ #### 2. [SMAKBO](http://www.smakbo.sch.id/) | KIMIA | 
 
 ## Work Experience:
 WFH| Freelancer
