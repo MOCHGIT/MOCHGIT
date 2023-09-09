@@ -2,7 +2,6 @@
 ## About me:
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning Python and Javascript
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: muhamadnawawi2@gmail.com
 
