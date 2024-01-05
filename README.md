@@ -1,7 +1,7 @@
 # Hi there, I'm Moch - aka Mon [muhamadnawawi]() 👋
 ## About me:
 - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning "how to build app from raw"
 - 💬 Ask me about anything
 - 📫 How to reach me: muhamadnawawi2@gmail.com
 
